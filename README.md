@@ -5,4 +5,5 @@ Designed page using HTML structure elements ,footer elements by using different 
 Implemented responsiveness by using Bootstrap grid system and flex classes and CSS box model properties through mobile-first approach.
 
 Technologies used: HTML, CSS, Bootstrap
+
 Tap to preview https://ranjithpaili.github.io/VirtualReality/
